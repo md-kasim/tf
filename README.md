@@ -5,3 +5,4 @@
 - Use of Dropout and Batch Normalization in Convolutional Neural Network to improve the accuracy
 - Simple 2D Convolution Neural Network with 99.2% accuracy
 - Object Detection with VGG16 Deep Learning Model
+- Breast Cancer Detection using Convolutional Neural Network with 97.2% accuracy
